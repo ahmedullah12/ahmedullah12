@@ -7,12 +7,12 @@
     <img align="center" alt="Coding" width="500" src="https://i.postimg.cc/BQNFVMZr/gitpic.gif" />
 </p>
 
-<div align='left'>
+
 - 🌱 I’m currently learning **Redux, TypeScript**
 - 👨‍💻 All of my projects are available at [ahmed-ullah.netlify.app](https://ahmed-ullah.netlify.app)
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me: [ahmed.webdev22@gmail.com](mailto:ahmed.webdev22@gmail.com)
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
