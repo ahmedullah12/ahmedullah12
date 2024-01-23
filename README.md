@@ -7,14 +7,19 @@
     <img align="center" alt="Coding" width="500" src="https://i.postimg.cc/BQNFVMZr/gitpic.gif" />
 </p>
 
+<div style="display: flex; align-items: center; justify-content: center;">
 
-- 🌱 I’m currently learning **Redux, TypeScript**
+    <img align="center" alt="Coding" width="300" src="https://i.postimg.cc/BQNFVMZr/gitpic.gif" />
 
-- 👨‍💻 All of my projects are available at [ahmed-ullah.netlify.app](ahmed-ullah.netlify.app)
+    <div style="margin-left: 20px;">
 
-- 💬 Ask me about **MERN Stack**
+        - 🌱 I’m currently learning **Redux, TypeScript**
+        - 👨‍💻 All of my projects are available at [ahmed-ullah.netlify.app](https://ahmed-ullah.netlify.app)
+        - 💬 Ask me about **MERN Stack**
+        - 📫 How to reach me: [ahmed.webdev22@gmail.com](mailto:ahmed.webdev22@gmail.com)
 
-- 📫 How to reach me **ahmed.webdev22@gmail.com**
+    </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
