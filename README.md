@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedullah12&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedullah12" /> </p>
 
-<p align="center">
+<p align="right">
     <img align="center" alt="Coding" width="500" src="https://i.postimg.cc/BQNFVMZr/gitpic.gif" />
 </p>
 
