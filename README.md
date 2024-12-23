@@ -24,7 +24,7 @@
 <br/>
 
 <br/>
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
 <p align="center"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
@@ -51,6 +51,9 @@
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedullah12&show_icons=true&locale=en&layout=compact" alt="ahmedullah12" /></p>
+<div>
+    <h2 align="left">Current Stats:</h2>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedullah12&show_icons=true&locale=en&layout=compact" alt="ahmedullah12" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedullah12&show_icons=true&locale=en" alt="ahmedullah12" /></p>
+</div>
