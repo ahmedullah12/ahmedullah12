@@ -7,10 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedullah12&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedullah12" /> </p>
 
-
+<h2 align="left">Current Overview</h2>
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/BQNFVMZr/gitpic.gif" />
-
-
 
 - 🌱 I’m currently learning **Nest Js, GraphQL**
 - 👨‍💻 Read more about my projects at [ahmed-ullah.netlify.app](https://ahmed-ullah.netlify.app)
