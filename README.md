@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ullah</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh.</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedullah12&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedullah12" /> </p>
 
@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **Redux, TypeScript**
-- 👨‍💻 All of my projects are available at [ahmed-ullah.netlify.app](https://ahmed-ullah.netlify.app)
-- 💬 Ask me about **MERN Stack**
+- 🌱 I’m currently learning **Nest Js, GraphQL**
+- 👨‍💻 Read more about my projects at [ahmed-ullah.netlify.app](https://ahmed-ullah.netlify.app)
+- 💬 Ask me about **JavaScript/TypeScript/React/NextJs or NodeJs/ExpressJs/MongoDB/PostgreSQL**
 - 📫 How to reach me: [ahmed.webdev22@gmail.com](mailto:ahmed.webdev22@gmail.com)
 
 
