@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Banner-Image.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ahmed Ullah</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh.</h3>
 
