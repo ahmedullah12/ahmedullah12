@@ -16,6 +16,7 @@
 - 📫 How to reach me: [ahmed.webdev22@gmail.com](mailto:ahmed.webdev22@gmail.com)
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-ullah-9416622a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-ullah-9416622a9" height="30" width="40" /></a>
@@ -51,7 +52,11 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>
 </p>
 <br/>
+<h2>Current Streak</h2>
 
+ [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ahmedullah12&theme=onedark)](https://git.io/streak-stats)
+ 
+ <br/>
 <div>
     <h2 align="left">Current Stats:</h2>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedullah12&show_icons=true&locale=en&layout=compact" alt="ahmedullah12" /></p>
