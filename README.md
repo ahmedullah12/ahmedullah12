@@ -52,8 +52,6 @@
 </p>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedullah12&theme=dracula)](https://git.io/streak-stats)
-
 <div>
     <h2 align="left">Current Stats:</h2>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedullah12&show_icons=true&locale=en&layout=compact" alt="ahmedullah12" /></p>
