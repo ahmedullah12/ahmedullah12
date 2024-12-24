@@ -52,6 +52,7 @@
 </p>
 <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedullah12&theme=dracula)](https://git.io/streak-stats)
 
 <div>
     <h2 align="left">Current Stats:</h2>
