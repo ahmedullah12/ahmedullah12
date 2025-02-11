@@ -10,7 +10,7 @@
 <h2 align="left">Current Overview</h2>
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/BQNFVMZr/gitpic.gif" />
 
-- 🌱 I’m currently learning **Nest Js, GraphQL**
+- 🌱 I’m currently learning **Docker, GitHub Actions**
 - 👨‍💻 Read more about my projects at [ahmed-ullah.netlify.app](https://ahmed-ullah.netlify.app)
 - 💬 Ask me about **JavaScript/TypeScript/React/NextJs or NodeJs/ExpressJs/MongoDB/PostgreSQL**
 - 📫 How to reach me: [ahmed.webdev22@gmail.com](mailto:ahmed.webdev22@gmail.com)
